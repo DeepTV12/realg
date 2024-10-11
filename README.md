@@ -2,14 +2,14 @@
 
 GoatsBot is an automation script for completing missions, checking in, and spinning the slot machine on the Real Goats Bot Telegram. This script handles multiple accounts, automates login, mission completion, and daily check-ins.
 
-[TELEGRAM CHANNEL](https://t.me/Deeplchain) | [TWITTER](https://x.com/itsjaw_real)
+[TELEGRAM CHANNEL](https://t.me/DeepTV12) | [Youtube](https://www.youtube.com/@DeepT.V)
 
 ## Register
 
 To use this bot, you need to register it with the Goats Telegram Bot. 
 
-1. Open the bot [t.me/Realgot_real](https://t.me/realgoats_bot/run?startapp=99effa5e-ac44-4be5-8f0d-64cf69f796e9)
-2. Click on the "[Start App](https://t.me/realgoats_bot/run?startapp=99effa5e-ac44-4be5-8f0d-64cf69f796e9)" or "[Open App]([url](https://t.me/realgoats_bot/run?startapp=99effa5e-ac44-4be5-8f0d-64cf69f796e9))" button
+1. Open the bot [t.me/Realgot_real](https://t.me/realgoats_bot/run?startapp=7a48e3df-d819-4581-a160-d8798e40f8f9)
+2. Click on the "[Start App](https://t.me/realgoats_bot/run?startapp=7a48e3df-d819-4581-a160-d8798e40f8f9)" or "[Open App]([url](https://t.me/realgoats_bot/run?startapp=7a48e3df-d819-4581-a160-d8798e40f8f9))" button
 3. Install This Real Goats Automations Bot
 4. Have Fun 🦈
 
@@ -111,13 +111,12 @@ Random Proxy Assignment The script will assign a proxy from the list for each ac
 
 ### This bot helpfull?  Please support me by buying me a coffee: 
 ```
-0x705C71fc031B378586695c8f888231e9d24381b4 - EVM
-TDTtTc4hSnK9ii1VDudZij8FVK2ZtwChja - TRON
-UQBy7ICXV6qFGeFTRWSpnMtoH6agYF3PRa5nufcTr3GVOPri - TON
+TEythEu5psSALzCEkKbDLbZjmT3qBnwhaf - USDT in TRC20
+UQAuQ6e858xTKi4OJ5zf7qmkBwXB4Pcupf9l0oyrWf84_915 - TON/USDT in TON
 ```
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For questions or support, please contact [ https://t.me/DeeplChainSup ]
+For questions or support, please contact [ https://t.me/DeepTV12 ]
