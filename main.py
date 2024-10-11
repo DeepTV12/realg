@@ -1,8 +1,8 @@
 import sys
 import asyncio
 
-from src.core import main
-from src.deeplchain import _banner,_clear, log, mrh
+from src/core import main
+from src/deeplchain import _banner,_clear, log, mrh
 
 if __name__ == "__main__":
     _clear()
